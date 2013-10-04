@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>836B3FCE-EC4C-404C-9F3B-4B698C0524DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ComponentsSeparatedByString</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2C210FFD-7754-44E8-AFE0-4060314DC8BF</key>
+		<string>https://github.com/navzou/try-components-separated-by-string.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ComponentsSeparatedByString/ComponentsSeparatedByString.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2C210FFD-7754-44E8-AFE0-4060314DC8BF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-components-separated-by-string.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2C210FFD-7754-44E8-AFE0-4060314DC8BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2C210FFD-7754-44E8-AFE0-4060314DC8BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-components-separated-by-string</string>
+		</dict>
+	</array>
+</dict>
+</plist>
